@@ -21,6 +21,6 @@
   <a href = "almirrdsnegro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
 <div>
-  ![Snake animation](https://github.com/AlmirRS/AlmirRS.git/blob/output/github-contribution-grid-snake.svg)   
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlmirRS&layout=compact)](https://github.com/AlmirRS/github-readme-stats)
 </div>
 
