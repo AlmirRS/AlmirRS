@@ -1,7 +1,7 @@
 # Ola! Eu sou o Almir Ramos, Seja Bem Vindo! 😊🤗
 
 <div>
-<a href="https://github.com/AlmirRS/almirramos.git">
+<a href="https://github.com/AlmirRS/AlmirRs.git">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=AlmirRs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmirRs&layout=compact&langs_count=0&theme=dracula"/>
 </div>
@@ -21,5 +21,5 @@
   <a href = "almirrdsnegro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
 <div>
-  ![Snake animation](https://github.com/AlmirRS/almirramos.git/blob/output/github-contribution-grid-snake.svg)   
+  ![Snake animation](https://github.com/AlmirRS/AlmirRS.git/blob/output/github-contribution-grid-snake.svg)   
 </div>
